@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-midnight-motion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caught In Midnight Motion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-midnight-motion/) |
+| **Get License** | [Obtain a Music License for Caught In Midnight Motion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-midnight-motion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a28c20f2585edf9cf6559779ade6d1241e9351c873783ab1cba904e5a370db98` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
