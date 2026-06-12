@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-midnight-motion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caught In Midnight Motion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-midnight-motion/) |
+| **Get License** | [Official Music Licensing for Caught In Midnight Motion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-midnight-motion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the pull when the shadows get long
+> We're just a rhythm that cannot go wrong
+> Your fingers trace every line on my skin
+> This is the moment where we both give in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
